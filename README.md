@@ -6,7 +6,7 @@ Beyond technical expertise, I have leadership and teamwork experience as a forme
 
 🔹 Skills: Java, JavaScript, React.js, AWS, Python, Data Structures & Algorithms
 
-🔹 Interests: AI, Cybersecurity, Full-Stack Development, Evolutionary Computing
+🔹 Interests: AI, Cybersecurity, Full-Stack Development, Information Technology
 
 🔹 Looking for: Internship opportunities in Software Engineering, IT, or other tech related fields summer 2025
 
