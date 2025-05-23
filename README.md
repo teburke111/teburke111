@@ -4,7 +4,10 @@ I am passionate and driven Computer Science student in the accelerated BS/MS pro
 
 Beyond technical expertise, I have leadership and teamwork experience as a former Assistant Team Lead & Training Coordinator at Chick-fil-A and currently work at Wegmans. My ability to adapt, problem-solve, and collaborate in fast-paced environments translates seamlessly into software development.
 
-🔹 Skills: Java, JavaScript, React.js, AWS, Python, Data Structures & Algorithms
+🔹 Skills
+-	Software: Canva, Microsoft Excel, Word, PowerPoint
+-	Programming Languages: Java, JavaScript, HTML/CSS, Python, Kotlin, Unix/Linux
+-	Tools and Technologies: VS Code, Git, AWS, Eclipse, React, Android Studio
 
 🔹 Interests: AI, Cybersecurity, Full-Stack Development, Information Technology
 
