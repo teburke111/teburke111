@@ -11,7 +11,7 @@ Beyond technical expertise, I have leadership and teamwork experience as a forme
 
 🔹 Interests: Artificial Intelligence, Cloud Engineering, Web Development
 
-🔹 Looking for: Internship opportunities in Software Engineering, IT, or other tech related fields summer 2025
+🔹 Looking for: Full Time or Internship opportunities in Software Engineering, IT, or other tech related fields
 
 Feel free to reach out to me!
 
